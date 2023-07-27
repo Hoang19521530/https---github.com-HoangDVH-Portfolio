@@ -17,7 +17,7 @@ export const About = () => {
           and creativity in the field of Information Technology. I studied at
           Information Technology university where I gained extensive knowledge
           in various languages and technologies related to Front-End
-          Development.
+          Development
         </p>
 
         <br />
